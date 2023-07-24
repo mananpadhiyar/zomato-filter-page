@@ -1,0 +1,296 @@
+*{
+    font-family: 'poppins', sans-serif;
+  
+    
+}
+
+
+header{
+
+     background-color: #CE0505;
+     height: 80px;
+     position: relative;
+   
+}
+
+.logo{
+    color: #CE0505;
+    font-size: 33px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.logo-span{
+    background-color: white;
+    border-radius: 50%;
+    padding: 5px 15px;
+    position: absolute;
+    left: 100px;
+    top: 13px;
+
+}
+
+.login-signup{
+    position: absolute;
+    right: 100px;
+    padding-top: 27px;
+    word-spacing: 10px;
+}
+
+.login {
+
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.createacc {
+       
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px 10px;
+    border-radius: 3px;
+    font-size: 16px;
+    word-spacing: normal;
+
+
+}
+
+
+section {
+     position: relative;
+     padding: 50px 90px;
+
+}
+
+.title-text {
+           
+       color: #192F60;
+       font-weight: bold;
+       font-size: 36px;
+       position: relative;
+       left: 23px;
+
+}
+
+.filter-article {
+    width: 260px;
+    height: 682px;
+    box-shadow: 0px 3px 6px #00000029;
+    position: absolute;
+    top: 152px;
+    left: 113px;
+}
+
+.result-1 {
+    width: 794px;
+    height: 291px;
+    box-shadow: 0px 3px 6px #00000029;
+    position: absolute;
+    top: 152px;
+    left: 418px;
+
+}
+
+.result-2 {
+    width: 794px;
+    height: 291px;
+    box-shadow: 0px 3px 6px #00000029;
+    position: absolute;
+    top: 487px;
+    left: 418px;
+      
+}
+
+.filter-article {
+   
+    padding-bottom: 12px;    
+}
+
+
+.filter-name {
+    position: relative;
+     top: 20px;
+     left: 25px;
+     font-size: 18px;
+     font-weight: bold;
+     color: #192F60;
+}
+
+.location-name {
+     
+    position: relative;
+    top: 28px;
+    left: 25px;
+    font-size: 14px;
+    color: #192F60;
+
+}
+
+#location-value{
+    position: relative;
+    top: 35px;
+    left: 25px;    
+    border: 1px solid #8C96AB;
+    border-radius: 3px;
+    padding: 7px 75px 7px 7px;
+}
+
+.cuisine-name{
+    position: relative;
+    top: 46px;
+    left: 25px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+/* left and right margin */
+hr {
+    margin: 0px 30px 0px 30px;
+}
+
+.cuisine-value input {
+          
+    margin: 10px 0px 10px 0px;
+    
+}
+
+
+.cuisine-value input[type=checkbox] {
+    accent-color: #192F60;
+    border-radius: 0%;
+   
+  }
+
+
+.cost-value input {
+
+    margin: 10px 0px 10px 0px;
+   
+}
+
+
+.cost-value input[type=radio] {
+
+    accent-color: #192F60;
+}
+
+
+
+
+.sort-value {
+
+    margin: 10px 0px 10px 0px;
+}
+
+
+.sort-value input[type=radio] {
+
+    accent-color: #192F60;
+    
+}
+
+
+.cuisine-value {
+    position: relative;
+    top: 51px;
+    left: 25px;
+    color: #8C96AB;
+    border-radius: 2px;
+}
+
+.cost-name{
+
+    position: relative;
+    top: 51px;
+    left: 25px;
+    font-size: 15px;
+    color: #192F60;
+    font-weight: bold;
+
+
+}
+
+.cost-value {
+
+    position: relative;
+    top: 57px;
+    left: 25px;
+    color: #8C96AB;
+
+}
+
+.sort-name {
+    position: relative;
+    top: 74px;
+    left: 25px;
+    font-size: 18px;
+    color: #192F60;
+    font-weight: bold;
+}
+
+.sort-value {
+    position: relative;
+    top: 80px;
+    left: 25px;
+    color: #8C96AB;
+
+}
+
+.breakfast-img {
+    position: relative;
+    top: 28px;
+    left: 57px;
+    width: 132px;
+    height: 123px;
+    border-radius: 20%;
+}
+
+
+.result-1-title {
+     position: relative;
+    font-size: 30px;
+    color: #192F60;
+    font-weight: bold;
+    left: 230px;
+    bottom: 80px;
+    
+}
+
+.fort-1 {
+   
+    position: absolute;
+    color: #192F60;
+    font-size: 16px;
+    font-weight: bold;
+    bottom: 173px;
+    left: 234px;
+}
+
+.result-1-adress {
+    
+    position: absolute;
+    font-size: 16px;
+    color: #636F88;
+    left: 234px;
+    bottom: 145px
+}
+
+hr {
+
+    border: 1px solid #DEDFE5;
+}
+
+.cost-1 {
+    position: relative;
+    left: 65px;
+    top: 22px;
+}
+
+.food-1 {
+    position: relative;
+    left: 243px;
+    bottom: 27px;
+}
